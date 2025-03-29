@@ -2,17 +2,6 @@
 <img src="image.png" alt="alt text" width="100"/>
 
 ## Table of Contents
-- [SDLC Automation](/1.SDLC%20Automation.md)
-- [Configuration Management and IaC](/2.Configuration%20Management%20and%20IaC.md)
-- [Resilient Cloud Solutions](/3.Resilient%20Cloud%20Solutions.md)
-- [Monitoring and Logging](/4.Monitoring%20and%20Logging.md)
-- [Incident and event response](/5.Incident%20and%20event%20response.md)
-- [Security and Compliance](/6.Security%20and%20Compliance.md)
-- [More AWS Services to Focus](/7.More%20AWS%20Services%20to%20Focus.md)
-- [AWS Cheatsheet](/8.%20AWS%20Cheatsheet.md)
-
-## Resources and Sections Overview
-The following table provides a quick reference to the sections and external resources covered in this document:
 
 | **Section**                             | **Description**                                                                 | **Link**                                                                 |
 |-----------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------|
@@ -76,3 +65,34 @@ The following table provides a quick reference to the sections and external reso
 
 ## Contributions
 To improve these notes and add more information, feel free to contribute by opening a PR.
+
+| **Type**               | **Resource**                                      | **Cost**       | **Link**                                                                 |
+|------------------------|---------------------------------------------------|----------------|--------------------------------------------------------------------------|
+| **Official Resources** | Exam Guide                                       | Free           | [AWS Certification](https://aws.amazon.com/certification/certified-devops-engineer-professional/) |
+|                        | Practice Question Set                            | Free (via Skill Builder) | [AWS Skill Builder](https://aws.amazon.com/skillbuilder/)                |
+|                        | Learning Plans                                   | Free           | [AWS Learning Plans](https://aws.amazon.com/learning-plans/)             |
+|                        | Exam Prep Courses                                | Free/Subscription | [AWS Skill Builder](https://aws.amazon.com/skillbuilder/)                |
+| **Paid Courses**       | Udemy - AWS Certified DevOps Engineer Professional 2023 - Hands On! | Paid           | [Udemy Course](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/) |
+|                        | Pluralsight - AWS Certified DevOps Engineer - Professional (DOP-C02) | Paid           | [Pluralsight](https://www.pluralsight.com/cloud-guru/courses/aws-certified-devops-engineer-professional-dop-c02) |
+|                        | Whizlabs - AWS Certified DevOps Engineer - Professional (DOP-C02) | Paid           | [Whizlabs](https://www.whizlabs.com/aws-devops-certification-training/)  |
+|                        | Coursera - DevOps on AWS Specialization          | Paid           | [Coursera](https://www.coursera.org/specializations/aws-devops)          |
+| **Free Courses**       | AWS Skill Builder - Exam Readiness: AWS Certified DevOps Engineer - Professional | Free           | [AWS Skill Builder](https://aws.amazon.com/skillbuilder/courses/exam-readiness-aws-certified-devops-engineer-professional) |
+|                        | AWS Learning Plans - DevOps Engineering on AWS   | Free           | [AWS Learning Plans](https://aws.amazon.com/learning-plans/)             |
+| **Practice Exams**     | ExamTopics - Free Practice Questions for DOP-C02 | Free           | [ExamTopics](https://www.examtopics.com/exams/amazon/aws-certified-devops-engineer-professional-dop-c02/) |
+|                        | Tutorials Dojo - AWS Certified DevOps Engineer Professional Practice Exams DOP-C02 | Paid           | [Tutorials Dojo](https://portal.tutorialsdojo.com/courses/aws-certified-devops-engineer-professional-practice-exams/) |
+|                        | AWS Official Practice Exams                      | Subscription   | [AWS Skill Builder](https://aws.amazon.com/skillbuilder/)                |
+| **Study Guides/Notes** | Medium - How I Conquered the AWS Certified DevOps Engineer Professional Exam in 60 Days | Free           | [Damien Burks](https://damienjburks.com/how-i-conquered-the-aws-devops-professional-exam-in-60-days) |
+|                        | Medium - AWS Certified DevOps Engineer Journey: From Associate to Professional | Free           | [Medium Article](https://medium.com/@Amet13/aws-devops-certification-ea08b0b69a7c) |
+|                        | Medium - 5 Best Courses for AWS Certified DevOps Engineer Professional DOP-C02 Certification in 2024 | Free           | [Javarevisited](https://medium.com/javarevisited/5-best-courses-for-aws-certified-devops-engineer-professional-dop-c02-certification-in-2023-c3785efb8782) |
+|                        | Towards the Cloud - Free Exam Guide: AWS Certified DevOps Engineer – Professional | Free           | [Towards the Cloud](https://towardsthecloud.com/aws-devops-engineer-professional-exam-guide) |
+|                        | Spacelift - AWS Certified DevOps Engineer - Professional [Cheat Sheet] | Free           | [Spacelift](https://spacelift.io/blog/aws-certified-devops-engineer-professional) |
+| **Community Resources**| Reddit - r/AWSCertification                      | Free           | [Reddit](https://www.reddit.com/r/awscertification/)                     |
+|                        | Stack Overflow - Relevant Questions              | Free           | Search on [Stack Overflow](https://stackoverflow.com/)                   |
+|                        | AWS Developer Community                          | Free           | [AWS Developer Community](https://developer.aws/community/)              |
+| **Additional Resources**| AWS Documentation                               | Free           | [AWS Docs](https://docs.aws.amazon.com/)                                |
+|                        | AWS Whitepapers                                  | Free           | [AWS Whitepapers](https://aws.amazon.com/whitepapers/)                   |
+|                        | AWS Blog                                         | Free           | [AWS Blog](https://aws.amazon.com/blogs/)                               |
+
+
+
+
