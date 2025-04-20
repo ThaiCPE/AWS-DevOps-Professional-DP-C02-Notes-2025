@@ -1,11 +1,11 @@
-# AWS DevOps Professional Notes
+# AWS DevOps Professional Note
 <img src="image.png" alt="alt text" width="100"/>
 
-## Table of Contents
+## สารบัญ
 
-| **Section**                             | **Description**                                                                 | **Link**                                                                 |
+| **หัวข้อ**                             | **คำอธิบาย**                                                                 | **Link**                                                                 |
 |-----------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| **SDLC Automation**                     | Covers automation practices in the Software Development Life Cycle (SDLC).      | [SDLC Automation](/1.SDLC%20Automation.md)                               |
+| **SDLC Automation**                     | "ครอบคลุมแนวปฏิบัติด้านการทำงานอัตโนมัติในวงจรการพัฒนา Software (SDLC)      | [SDLC Automation](/1.SDLC%20Automation.md)                               |
 | **Configuration Management and IaC**    | Focuses on Infrastructure as Code (IaC) and configuration management tools.     | [Configuration Management and IaC](/2.Configuration%20Management%20and%20IaC.md) |
 | **Resilient Cloud Solutions**           | Discusses strategies for building resilient and fault-tolerant systems on AWS.  | [Resilient Cloud Solutions](/3.Resilient%20Cloud%20Solutions.md)         |
 | **Monitoring and Logging**              | Explains monitoring, logging, and observability practices using AWS services.   | [Monitoring and Logging](/4.Monitoring%20and%20Logging.md)               |
